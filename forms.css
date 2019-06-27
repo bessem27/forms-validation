@@ -1,0 +1,15 @@
+body{
+    background-color:rgba(70, 11, 88, 0.849);
+    position: fixed;
+    left:560px;
+    color: white;
+    margin-top: 40px;
+}
+.initial{
+    background-color: rgb(32, 137, 151);
+    width:100%;
+    color:white;
+}
+.form-control{
+    background-color: rgb(41, 122, 136);
+}
